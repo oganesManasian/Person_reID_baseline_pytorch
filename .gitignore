@@ -2,6 +2,9 @@
 outputs/
 model/
 logs/
+market/
+msmt17/
+.idea/
 __pycache__/
 core
 
